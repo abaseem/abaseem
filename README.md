@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Abdullah 👋
 
 <!--
 **abdullahbaseem/abdullahbaseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📌 About Me:
+- Studying Computer Systems Engineering @ Carleton University
+- Experience with embedded programming 🖥️, devops ☁️, and automation 🤖
+
+### 📫 Contact:
+- Email: [abdullahb383@gmail.com](abdullahb383@gmail.com)
+- Linkedin: [linkedin.com/in/abdullahbaseem/](linkedin.com/in/abdullahbaseem/)
