@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - Experience with embedded programming 🖥️, devops ☁️, and automation 🤖
 
 ### 📫 Contact:
-- Email: [abdullahb383@gmail.com]
+- Email: abdullahb383@gmail.com
 - Linkedin: [linkedin.com/in/abdullahbaseem](https://www.linkedin.com/in/abdullahbaseem/)
