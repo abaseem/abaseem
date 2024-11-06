@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ### 📫 Contact:
 - Email: abdullahb383@gmail.com
-- Linkedin: [linkedin.com/in/abdullahbaseem](https://www.linkedin.com/in/abdullahbaseem/)
+- Linkedin: [linkedin.com/in/abdullahbaseem](https://www.linkedin.com/in/abaseem/)
